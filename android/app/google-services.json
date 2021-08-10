@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510739766793",
+    "project_id": "casino-edc23",
+    "storage_bucket": "casino-edc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510739766793:android:492d1785c178e6e8b322d8",
+        "android_client_info": {
+          "package_name": "app.casino.casino_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510739766793-ctodha35oic75vb2mgdliqdl65f0qlkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.casino.casino_app",
+            "certificate_hash": "33fc399d75742585a63b76a6c22db08e14357c93"
+          }
+        },
+        {
+          "client_id": "510739766793-slbvn367ef4nbmpkr81ihahqhplkp2i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcj1ATxPOxwh6Q4hGzxpe_ZZI2RcUAYt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510739766793-slbvn367ef4nbmpkr81ihahqhplkp2i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
